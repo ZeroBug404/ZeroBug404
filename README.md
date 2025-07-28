@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AI**
 
-- 👨‍💻 All of my projects are available at [https://zerobug-404.netlify.app/](https://zerobug-404.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://zerobug404.com/](https://zerobug404.com/)
 
 - 📫 How to reach me **shimu.mallick1@gmail.com**
 
